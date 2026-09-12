@@ -1,4 +1,5 @@
-❤️ Cardiovascular Risk Prediction
+# ❤️ Cardiovascular Risk Prediction
+
 A machine learning and deep learning project analyzing risk factors and building predictive models for cardiovascular disease (CVD), comparing ensemble methods against a neural network on 70,000 patient records.
 
 ## Overview
@@ -22,7 +23,7 @@ The project covers:
 * Smoking, alcohol intake, physical activity
 * Target: presence of cardiovascular disease (`cardio`)
 
-Source: [Kaggle — Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
+Source: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 
 ## Results
 
